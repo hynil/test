@@ -1,2 +1,2 @@
-[首页 →](/README.md) [hello页 →](/docs/README.md)
+[首页 →](/README.md) [hello页 →](/docs/hello.md)
 ##title
