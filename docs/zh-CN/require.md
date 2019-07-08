@@ -1,2 +1,2 @@
-[首页 →](docs/zh-CN/README.md)
+[首页 →](../../README.md)
 ##title
